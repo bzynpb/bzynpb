@@ -38,7 +38,7 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&layout=compact&theme=merko&count_private=true&hide=python" />
 <img height="150px" />
 
-
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true)
 
 <!--
 **bzynpb/bzynpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
