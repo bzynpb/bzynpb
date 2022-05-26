@@ -42,11 +42,10 @@
   <br>
 
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bzynpb&show_icons=true&theme=merko&count_private=true" />
-  
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&layout=compact&theme=merko&count_private=true&hide=python" />
-
-<img height="150px" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=bzynpb&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bzynpb&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
   
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true)
 
