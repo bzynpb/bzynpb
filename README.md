@@ -32,7 +32,6 @@
 </table>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bzynpb" alt="bzynpb" /> </p>
 <img align="right" src="https://img.shields.io/github/followers/bzynpb?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bzynpb&show_icons=true&theme=merko&count_private=true" />
