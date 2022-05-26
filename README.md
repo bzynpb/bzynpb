@@ -44,8 +44,9 @@
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bzynpb&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&layout=compact&theme=merko&count_private=true&hide=python" />
-<img height="150px" />
 
+<img height="150px" />
+  
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
