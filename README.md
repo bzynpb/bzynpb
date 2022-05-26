@@ -41,7 +41,7 @@
   <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1028/1*wZoo0vMo8hx7qpnPoS1CgA.png" alt="Azure/Docker"  height="50"/> </a>
   <br>
 
-<h1 align="center"></h1>
+
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bzynpb&show_icons=true&theme=merko&count_private=true" />
   
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&layout=compact&theme=merko&count_private=true&hide=python" />
