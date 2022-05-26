@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello World!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
 
 
 
