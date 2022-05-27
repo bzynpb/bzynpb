@@ -18,17 +18,18 @@
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
 
 ## 📙 Python Libraries
-  
-<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.scipy.org/images/logo.svg" alt="SciPy" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="50"/> </a>
 
 ## 💻 Languages
-
-<a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" height="90"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="90"/>
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="90"/> </a>
+<a href="#" target="_blank"> <img src="https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png" alt="Python" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://www.signl4.com/de/wp-content/uploads/sites/2/2019/01/3.png" alt="MySQL" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://i2.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/sqlite.jpg?fit=882%2C456&ssl=1" alt="SQLite" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://www.teamscs.com/wp-content/uploads/2016/04/sql-server-logo.png" alt="SQLserver" height="70"/> </a>
   
 ## ⚙ Tools
 
