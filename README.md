@@ -10,6 +10,7 @@
   
   ![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
 
+  
 ## 🎨  Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
