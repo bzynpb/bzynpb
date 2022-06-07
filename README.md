@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
 <li>👩‍🎓 <strong>Data Scientist</strong> student, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
