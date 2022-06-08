@@ -5,7 +5,7 @@
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
-<li>👩‍🎓 <strong>Data Scientist</strong> student, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
+<li>👩‍🎓 <strong>Data Scientist </strong> student, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
 <li>📙 Check out my profile on <a href="https://www.linkedin.com/in/betulzeynep/">Linkedin</a></li>
   
   ![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
