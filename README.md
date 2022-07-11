@@ -21,10 +21,9 @@
 
 
   
-## ✨ Python Libraries
+### ✨ Python Libraries
 
-
-<a href="https://github.com/bzynpb/DataAnalysing_Python/tree/main/Numpy%20Exercises" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
+<li><a href="https://github.com/bzynpb/DataAnalysing_Python/tree/main/Numpy%20Exercises" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
 <a href="https://github.com/bzynpb/DataAnalysing_Python" target="_blank"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
 <a href="https://github.com/bzynpb/DataVisualisation_Python" target="_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-plotly-1c3c5f?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
@@ -32,15 +31,16 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-scipy-6b95f5?style=for-the-badge&logo=scipy&logoColor=1c3c5f" alt="SciPy" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-scikitlearn-fcab5a?style=for-the-badge&logo=scikitlearn&logoColor=1c3c5f" alt="Scikit-Learn" /> </a>
 
-## 🖥️ Languages
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+### 🖥️ Languages
+
+<li><a href="#" target="_blank"> <img src="https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-71a9d5?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLserver-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="SQLserver"/> </a>
   
-## ⚙ Tools
+### ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
+<li><a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
