@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello World! 🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
-<li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> on Clarusway (Cohort10)  </li>
+<li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> @Clarusway (Cohort10)  </li>
 <li> 
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulzeynep)
