@@ -57,7 +57,11 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
 
 
+  <br>
 
+[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/215y6mmin4h2kzmw2bukhvffa)
+
+  
 <!--
 
 **bzynpb/bzynpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
