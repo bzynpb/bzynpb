@@ -5,9 +5,15 @@
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
-<li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> @Clarusway (Cohort10)  </li>
-<li> 
+<li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
+<li> 👩‍🔬 Data Science student @Clarusway (Cohort10)  </li>
+<li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner </li>
+  <br>
 
+[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/215y6mmin4h2kzmw2bukhvffa)
+  
+  <br>
+  
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulzeynep)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/19420405/coral)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@bzynpb)
@@ -22,7 +28,7 @@
   
 ### ✨ Python Libraries
 
-<li><a href="https://github.com/bzynpb/DataAnalysing_Python/tree/main/Numpy%20Exercises" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
+<a href="https://github.com/bzynpb/DataAnalysing_Python/tree/main/Numpy%20Exercises" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
 <a href="https://github.com/bzynpb/DataAnalysing_Python" target="_blank"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
 <a href="https://github.com/bzynpb/DataVisualisation_Python" target="_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-plotly-1c3c5f?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
@@ -32,14 +38,14 @@
 
 ### 🖥️ Languages
 
-<li><a href="#" target="_blank"> <img src="https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-71a9d5?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLserver-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="SQLserver"/> </a>
   
 ### ⚙ Tools
 
-<li><a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
@@ -57,9 +63,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
 
 
-  <br>
-
-[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/215y6mmin4h2kzmw2bukhvffa)
 
   
 <!--
