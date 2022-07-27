@@ -7,7 +7,7 @@
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
 <li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 <li> 👩‍🔬 Data Science student @Clarusway (Cohort10)  </li>
-<li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner,  🛰️sci-fi & 🐉fantasy 📚reader </li> 
+<li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner,  🛰️sci-fi & 🐉fantasy 📚 🎥 </li> 
   <br>
 
 [![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/215y6mmin4h2kzmw2bukhvffa)
