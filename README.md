@@ -4,7 +4,7 @@
 
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
-<li>🔭 Currently working as <strong>data analyst </strong> </li>
+<li>🔭 Currently working as a <strong>data analyst </strong> </li>
 <li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 <li> 👩‍🔬 Data Science student @Clarusway (Cohort10)  </li>
 <li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner,  🛰️sci-fi & 🐉fantasy 📚 🎥 </li> 
