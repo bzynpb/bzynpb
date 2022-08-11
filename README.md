@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello World! 🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
+ <img src="https://github.com/bzynpb/bzynpb/blob/main/bzb.png" width="350px">
 </p>
 
-<h2>⚡️ A Few Quick Facts </h2>
-<ul>
+
+<h2>⚡️ Hello World!</h2>
+ I' m ... 
 <li>🔭 Currently working as a <strong>data analyst </strong> </li>
 <li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 <li> 👩‍🔬 Data Science student @Clarusway (Cohort10)  </li>
-<li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner,  🛰️sci-fi & 🐉fantasy 📚 🎥 </li> 
+<li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner,  🛰️ Science Fiction & 🐉Fantasy 📚 🎥  </li> 
   <br>
 
 [![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/215y6mmin4h2kzmw2bukhvffa)
