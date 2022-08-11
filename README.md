@@ -4,7 +4,6 @@
 
 
 <h2>⚡️ Hello World!</h2>
- I' m ... 
 <li>🔭 Currently working as a <strong>data analyst </strong> </li>
 <li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 <li> 👩‍🔬 Data Science student @Clarusway (Cohort10)  </li>
