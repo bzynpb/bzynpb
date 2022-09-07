@@ -49,7 +49,7 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-AzureDocker-66e4ff?style=for-the-badge&logo=AzureDocker&logoColor=white" alt="Azure/Docker" /> </a>
+ 
   <br>
 
 
