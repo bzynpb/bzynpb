@@ -9,8 +9,6 @@
 <li> 👩‍🔬 Data Science grad @Clarusway (Cohort10)  </li>
 <li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner, also interested in 🛰️ Science Fiction & 🐉Fantasy 📚 🎥  </li> 
   <br>
-
-[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/215y6mmin4h2kzmw2bukhvffa)
   
   <br>
   
