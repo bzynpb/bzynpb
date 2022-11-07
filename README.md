@@ -50,11 +50,6 @@
  
   <br>
 
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bzynpb&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bzynpb&theme=chartreuse-dark&hide_border=true" alt="my commit status " width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" > </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
 
 
