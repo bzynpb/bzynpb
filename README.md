@@ -4,7 +4,7 @@
 
 
 <h2>⚡️ Hello World!</h2>
-<li>🔭 Working as a Contractor <strong>data analyst </strong> </li>
+<li>🔭 Working as a <strong>data analyst </strong> </li>
 <li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 <li> 👩‍🔬 Data Science grad @Clarusway (Cohort10)  </li>
 <li> 🎶 Flutist, 🏹 Archer, ✨ EFT (Emotional freedom technique) Level-2 practitioner, also interested in 🛰️ Science Fiction & 🐉Fantasy 📚 🎥  </li> 
