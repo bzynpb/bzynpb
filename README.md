@@ -49,12 +49,13 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
  
-
-
-
+  <br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
 
 
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bzynpb.visitor-badge" />
+
+  <br>
   
 <!--
 
