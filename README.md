@@ -19,9 +19,9 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/bzynpb)
 [<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com/app/profile/bzynpb)
 
-  
-  ![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
 
+  
+![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
 
 
   
