@@ -4,6 +4,7 @@
 </p>
 
 
+
 <h2>⚡️ Hello World!</h2>
 <li>🔭 Working as a <strong>data analyst </strong> </li>
 <li>👩‍🎓 Interested in <strong>Data Science </strong> and learning about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
