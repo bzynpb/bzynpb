@@ -31,8 +31,7 @@
 <a href="https://github.com/bzynpb/DataVisualisation_Python" target="_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-plotly-1c3c5f?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
 <a href="https://github.com/bzynpb/DataVisualisation_Python" target="_blank"> <img src="https://img.shields.io/badge/-seaborn-324b81?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-scipy-6b95f5?style=for-the-badge&logo=scipy&logoColor=1c3c5f" alt="SciPy" /> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-scikitlearn-fcab5a?style=for-the-badge&logo=scikitlearn&logoColor=1c3c5f" alt="Scikit-Learn" /> </a>
+
 
 ### 🖥️ Languages
 
