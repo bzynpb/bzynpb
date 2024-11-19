@@ -20,7 +20,8 @@
 
 
   
-![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/bzynpb/bzynpb/output/github-contribution-grid-snake.svg)
+
 
 
   
