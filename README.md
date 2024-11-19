@@ -19,10 +19,7 @@
 [<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com/app/profile/bzynpb)
 
 
-  
-![Snake animation](https://raw.githubusercontent.com/bzynpb/bzynpb/output/github-contribution-grid-snake.svg)
-
-
+![Snake animation](https://raw.githubusercontent.com/bzynpb/bzynpb/refs/heads/output/github-contribution-grid-snake.svg)
 
   
 ### ✨ Python Libraries
